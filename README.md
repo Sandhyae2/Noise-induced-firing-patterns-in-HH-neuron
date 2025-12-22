@@ -1,1 +1,1 @@
-# Noise-induced-firing-patterns-in-HH-neuron
+# Noise-induced-firing-patterns-in-HH-neuron⚡
