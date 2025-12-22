@@ -24,6 +24,7 @@ The project extends the classical HH model by including:<br>
 ## Model Outputs
 
 The model generates:
+
 - Action potential plots ( with and without Ca²⁺/KCacurrents)
 - Gating variable plots  (m, h, n, p)
 - Ionic cuurent plots (INa, IK, ICa, IKCa, IL)
@@ -33,7 +34,9 @@ The model generates:
 - 3D plot
 
 # Files and Contents
+
 - **Firing_patterns.py**<br>
-    It contains the python code implementing the HH neuron model with noise,           calcium and KCa currents. It also includes functionality of multiple trials,       spike detection , ISI calculation and plots.
+    It contains the python code implementing the HH neuron model with noise, calcium and KCa currents. It also includes functionality of multiple trials,       spike detection , ISI calculation and plots.
+  
 - **Plots**<br>
     It contains ISI histograms AND 3D plot showing the relationship between time, membrane potential and calcium activation
