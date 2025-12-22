@@ -33,7 +33,7 @@ The model generates:
 - 3D plot
 
 # Files and Contents
-- **Firing_patterns.py**
+- **Firing_patterns.py**<br>
     It contains the python code implementing the HH neuron model with noise,           calcium and KCa currents. It also includes functionality of multiple trials,       spike detection , ISI calculation and plots.
-- **Plots**
+- **Plots**<br>
     It contains ISI histograms AND 3D plot showing the relationship between time, membrane potential and calcium activation
