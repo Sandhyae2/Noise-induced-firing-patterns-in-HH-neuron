@@ -19,7 +19,7 @@ The project extends the classical HH model by including:<br>
 - **Intracellular calcium dynamics:**<br>
    Simulates changes in intraceelular calcium concentration over time.<br>
 - **Multiple trials:**<br>
-   The simulation can run multiple trials with noise to visualize variability in      firing patterns.<b>
+   The simulation can run multiple trials with noise to visualize variability in      firing patterns.<br>
 
 ## Model Outputs
 
